@@ -1,8 +1,8 @@
 # DoS_Attack
--help	show this manual"
--a   	attack address ( must be given )"
--port   port to be attacked ( Default: 80 ) "
--sp     spoofed IP address ( Default: random on each packet )"
+-help	show this manual
+-a   	attack address ( must be given )
+-port   port to be attacked ( Default: 80 ) 
+-sp     spoofed IP address ( Default: random on each packet )
 
 
 Usage:
