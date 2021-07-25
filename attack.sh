@@ -1,3 +1,3 @@
 g++ attacker.cpp -o attack
 
-sudo ./attack 10.0.5.5
+sudo ./attack -a 10.0.5.5
